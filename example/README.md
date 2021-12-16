@@ -1,6 +1,6 @@
-# example
+# barcode_vision_example
 
-A new Flutter project.
+Demonstrates how to use the barcode_vision plugin.
 
 ## Getting Started
 
